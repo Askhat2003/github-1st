@@ -1,0 +1,109 @@
+  PTC Installation assistant log file
+========= PIM Version: 6.0.0.0 ==========
+Tue Feb 16 13:18:12 21
+=======================================
+ Sessioninfo xml file :F:\pim\xml\sessioninfo.xml)
+sessioninfo created
+PimTop-sessioninfo created
+before test communication
+skip test communication
+set platforms
+set languages prop
+Loaded product definition file: F:\pim\xml\creohelpdma.xml.
+Loaded product definition file: F:\pim\xml\creohelplay.xml.
+Loaded product definition file: F:\pim\xml\creohelpoptm.xml.
+Loaded product definition file: F:\pim\xml\creohelppma.xml.
+Loaded product definition file: F:\pim\xml\creohelprender.xml.
+Loaded product definition file: F:\pim\xml\creohelpsim.xml.
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\creoplatformagent.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\creoplatformagent.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+ Sessioninfo xml file :F:\pim\xml\redistributables.xml)
+Not able to locate the sessioninfo xml file (F:\pim\xml\redistributables.xml)
+Installation root path set to: C:\Program Files\PTC
+Starting the installation of Creo Direct Help.
+Starting the installation of Creo Layout Help.
+Starting the installation of Creo Options Modeler Help.
+Starting the installation of Creo Parametric Help.
+Starting the installation of Creo Render Studio Help.
+Starting the installation of Creo Simulate Help.
+Setting up Uninstall information in the registry for PTC Creo Layout Help Version 6.0.0.0.
+Extracting archive file from F:\ptcsh0\ptc1.cab to path C:\Program Files\PTC\Creo 6.0.0.0\help\creo_help_lcd.
+Uninstall information entered into the registry for PTC Creo Layout Help Version 6.0.0.0.
+Setting up Uninstall information in the registry for PTC Creo Direct Help Version 6.0.0.0.
+Extracting archive file from F:\ptcsh0\ptc0.cab to path C:\Program Files\PTC\Creo 6.0.0.0\help\creo_help_dma.
+Uninstall information entered into the registry for PTC Creo Direct Help Version 6.0.0.0.
+Create Start Menu Programs Folder Shortcut Creo Layout Help 6.0.0.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Setting up Uninstall information in the registry for PTC Creo Options Modeler Help Version 6.0.0.0.
+Extracting archive file from F:\ptcsh0\ptc2.cab to path C:\Program Files\PTC\Creo 6.0.0.0\help\creo_help_optm.
+Uninstall information entered into the registry for PTC Creo Options Modeler Help Version 6.0.0.0.
+Create Start Menu Programs Folder Shortcut Creo Direct Help 6.0.0.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Setting up Uninstall information in the registry for PTC Creo Render Studio Help Version 6.0.0.0.
+Extracting archive file from F:\ptcsh0\ptc5.cab to path C:\Program Files\PTC\Creo 6.0.0.0\help\creo_help_render.
+Uninstall information entered into the registry for PTC Creo Render Studio Help Version 6.0.0.0.
+Create Start Menu Programs Folder Shortcut Creo Options Modeler Help 6.0.0.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Setting up Uninstall information in the registry for PTC Creo Parametric Help Version 6.0.0.0.
+Extracting archive file from F:\ptcsh0\ptc3.cab to path C:\Program Files\PTC\Creo 6.0.0.0\help\creo_help_pma.
+Uninstall information entered into the registry for PTC Creo Parametric Help Version 6.0.0.0.
+Create Start Menu Programs Folder Shortcut Creo Render Studio Help 6.0.0.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Setting up Uninstall information in the registry for PTC Creo Simulate Help Version 6.0.0.0.
+Extracting archive file from F:\ptcsh0\ptc4.cab to path C:\Program Files\PTC\Creo 6.0.0.0\help\creo_help_sim.
+Uninstall information entered into the registry for PTC Creo Simulate Help Version 6.0.0.0.
+Create Start Menu Programs Folder Shortcut Creo Parametric Help 6.0.0.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Create Start Menu Programs Folder Shortcut Creo Simulate Help 6.0.0.0.
+Create Start Menu Shortcut uninstall.
+Create Start Menu Shortcut reconfigure.
+Goodbye!
